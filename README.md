@@ -2,7 +2,7 @@
 
 ## How to use Array Builder Variable
 
-TBD
+With Array Builder Variable you can create an array.
 
 ## Open Source
 

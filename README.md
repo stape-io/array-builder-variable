@@ -4,7 +4,8 @@
 
 Construct array data structures within server Google Tag Manager. It's particularly useful for organizing and structuring data in a format that can be easily manipulated and passed to tags or other variables within your server-side GTM setup.
 
-Useful links: https://stape.io/solutions/array-builder-variable 
+### Useful links:
+- https://stape.io/solutions/array-builder-variable 
 
 ## Open Source
 
